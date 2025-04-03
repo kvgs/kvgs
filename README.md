@@ -1,6 +1,6 @@
 # 👩‍💻 Hi there! I'm Kelli Souza
 
-💡 My passion for data began during an internship at the Municipal Historical Archive, where I discovered the importance of organising, interpreting, and transforming data into knowledge. Since then, I’ve immersed myself in both technical and analytical learning.
+🎓 I transitioned from the field of History to the fascinating world of Data and Technology. Today, I work as a **Data Assistant** at Fundação Zerrenner, focusing on data analysis, dashboard development, and transforming information into strategic insights.
 
 📌 Currently:
 - I work with **exploratory data analysis** and build dashboards using **Power BI**, **Tableau**, and **Metabase**
