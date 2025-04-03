@@ -1,32 +1,33 @@
-# 👩‍💻 Olá! Eu sou a Kelli Galvão
+# 👩‍💻 Hi there! I'm Kelli Souza
 
-🎓 Em transição da área da História para o fascinante universo de Dados e Tecnologia, hoje atuo como **Assistente de Dados** na Fundação Zerrenner. Meu foco está em análise de dados, construção de dashboards e transformação de dados em insights estratégicos.
+💡 My passion for data began during an internship at the Municipal Historical Archive, where I discovered the importance of organising, interpreting, and transforming data into knowledge. Since then, I’ve immersed myself in both technical and analytical learning.
 
-📌 Atualmente:
-- Trabalho com **análise exploratória de dados** e construção de dashboards em **Power BI**, **Tableau** e **Metabase**
-- Atuo com **SQL**, **Python** e **bancos de dados relacionais e não relacionais** (SQL Server, MongoDB)
-- Desenvolvo soluções com foco em apoiar a tomada de decisões de áreas de negócio
+📌 Currently:
+- I work with **exploratory data analysis** and build dashboards using **Power BI**, **Tableau**, and **Metabase**
+- I use **SQL**, **Python**, and both relational and non-relational databases (SQL Server, MongoDB)
+- I develop solutions to support strategic decision-making in business areas
 
-🛠️ **Tecnologias e Ferramentas**
-- Linguagens: `SQL`, `Python`, `JavaScript` 
-- BI: `Power BI`, `Tableau`, `Metabase`
+🛠️ **Technologies & Tools**
+- Languages: `SQL`, `Python`, `JavaScript`
+- BI Tools: `Power BI`, `Tableau`, `Metabase`
+- Databases: `SQL Server`, `MongoDB`
 
-📚 **Formação**
-- Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas – Impacta Tecnologia (2023–2025)
-- Diversos cursos complementares em Data Analytics, Python, SQL, Power BI e Visualização de Dados (Codecademy, Alura, EBAC, University of Michigan, entre outros)
+📚 **Education**
+- Bachelor of Technology in Systems Analysis and Development – Impacta Tecnologia (2023–2025)
+- Multiple complementary courses in Data Analytics, Python, SQL, Power BI, and Data Visualisation (Codecademy, Alura, EBAC, University of Michigan, among others)
 
-🚀 **Projetos em destaque**
-- [📊 Mapas de Violência Doméstica no Brasil - 2020](https://lnkd.in/dZ3i2v74): análise comparativa usando dados do SINAN/SUS com visualizações interativas.
-> Explorando tanto o volume absoluto quanto as taxas ajustadas por população, esse projeto traz uma visão crítica e analítica sobre um tema sensível e relevante.
+🚀 **Featured Projects**
+- [📊 Domestic Violence in Brazil - 2020](https://lnkd.in/dZ3i2v74): a comparative analysis using SINAN/SUS data and interactive visualisations.
+> This project explores both the absolute volume and population-adjusted notification rates, offering a critical analytical view of a sensitive and important issue.
 
-💬 **Citação favorita**
-> “Encontrar soluções para nossos maiores problemas requer compreensão tanto do contexto humano quanto da programação de softwares, tanto da ética quanto da estatística.”  
-> — *Scott Hartley, O Fuzzy e o Techie*
+💬 **Favourite Quote**
+> “Solving our greatest problems requires understanding both the human context and the software code, both ethics and statistics.”  
+> — *Scott Hartley, The Fuzzy and the Techie*
 
-📫 **Vamos nos conectar!**
+📫 **Let's connect!**
 - [LinkedIn](https://www.linkedin.com/in/kellivgs/)
-- E-mail: [seuemail@email.com](mailto:seuemail@email.com) <!-- Substitua por seu email -->
+- Email: [youremail@email.com](kelli.vgs@gmail.com) <!-- Replace with your real email -->
 
 ---
 
-⭐ Obrigada por visitar meu perfil! Estou em constante aprendizado, então críticas, sugestões e dicas são sempre bem-vindas. :)
+⭐ Thanks for visiting my profile! I’m constantly learning, so feedback, suggestions, and helpful tips are always welcome. :)
