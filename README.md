@@ -26,7 +26,7 @@
 
 📫 **Let's connect!**
 - [LinkedIn](https://www.linkedin.com/in/kellivgs/)
-- Email: [youremail@email.com](kelli.vgs@gmail.com) <!-- Replace with your real email -->
+- Email: [kelli.vgs@gmail.com](kelli.vgs@gmail.com) <!-- Replace with your real email -->
 
 ---
 
