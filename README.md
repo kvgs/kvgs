@@ -3,8 +3,8 @@
 🎓 I transitioned from the field of History to the fascinating world of Data and Technology. Today, I work as a **Data Assistant** at Fundação Zerrenner, focusing on data analysis, dashboard development, and transforming information into strategic insights.
 
 📌 Currently:
-- I work with **exploratory data analysis** and build dashboards using **Power BI**, **Tableau**, and **Metabase**
-- I use **SQL**, **Python**, and both relational and non-relational databases (SQL Server, MongoDB)
+- I work with **exploratory data analysis** and build dashboards using **Tableau**
+- I use **SQL**, **Python**, and both relational databases (SQL Server)
 - I develop solutions to support strategic decision-making in business areas
 
 🛠️ **Technologies & Tools**
