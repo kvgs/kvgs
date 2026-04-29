@@ -21,7 +21,7 @@ cost indicators — recognized with the Global CIO Project of the Year 2024.
 - Cloud: `AWS (S3, Glue, Athena)` `Azure`
 
 📚 Education
-- MBA in Data Engineering – FIAP (2025–current)
+- MBA in Data Engineering – FIAP (2026–current)
 - Systems Analysis and Development – Impacta Tecnologia (2023–2025)
 
 🚀 Featured Projects
