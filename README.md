@@ -44,9 +44,7 @@ and the software code, both ethics and statistics."
 — Scott Hartley, The Fuzzy and the Techie
 
 📫 Let's connect!
-⭐ Always learning — feedback and suggestions are welcome!
 
-📫 **Let's connect!**
 <div>
   <a href="https://instagram.com/kikiaconteceu" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
