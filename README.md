@@ -8,11 +8,6 @@ that support strategic decisions — with a focus on public health data.
 - Data Analyst at W1 Consultoria Financeira
 - MBA in Data Engineering @ FIAP
 
-🏥 Healthcare & Public Data
-I have hands-on experience with health data from Fundação Zerrenner (Ambev Group),
-where I developed BI solutions for vaccination coverage, maternal care and hospital
-cost indicators — recognized with the Global CIO Project of the Year 2024.
-
 🛠️ Technologies & Tools
 - Languages: `SQL` `Python` `PySpark` `JavaScript`
 - BI Tools: `Tableau` `Power BI` `Streamlit`
