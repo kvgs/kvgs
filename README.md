@@ -1,28 +1,50 @@
-# 👩‍💻 Hi there! I'm Kelli Souza
+👩‍💻 Hi there! I'm Kelli Souza
 
-🎓 I transitioned from the field of History to the fascinating world of Data and Technology. Today, I work as a **Data Assistant** at Fundação Zerrenner, focusing on data analysis, dashboard development, and transforming information into strategic insights.
+🎓 I started in History, but found my path where data meets social impact.
+I work as a Data Analyst, building pipelines, dashboards and analyses
+that support strategic decisions — with a focus on public health data.
 
 📌 Currently:
-- I work with **exploratory data analysis** and build dashboards using **Tableau**
-- I use **SQL**, **Python**, and both relational databases (SQL Server)
-- I develop solutions to support strategic decision-making in business areas
+- Data Analyst at W1 Consultoria Financeira
+- MBA in Data Engineering @ FIAP
 
-🛠️ **Technologies & Tools**
-- Languages: `SQL`, `Python`, `JavaScript`
-- BI Tools: `Power BI`, `Tableau`, `Metabase`
-- Databases: `SQL Server`, `MongoDB`
+🏥 Healthcare & Public Data
+I have hands-on experience with health data from Fundação Zerrenner (Ambev Group),
+where I developed BI solutions for vaccination coverage, maternal care and hospital
+cost indicators — recognized with the Global CIO Project of the Year 2024.
 
-📚 **Education**
-- Bachelor of Technology in Systems Analysis and Development – Impacta Tecnologia (2023–2025)
-- Multiple complementary courses in Data Analytics, Python, SQL, Power BI, and Data Visualisation (Codecademy, Alura, EBAC, University of Michigan, among others)
+🛠️ Technologies & Tools
+- Languages: `SQL` `Python` `PySpark` `JavaScript`
+- BI Tools: `Tableau` `Power BI` `Streamlit`
+- Data & ETL: `Azure Data Factory` `SSIS` `Airflow` `dbt` `Docker`
+- Databases: `SQL Server` `MySQL` `MongoDB`
+- Cloud: `AWS (S3, Glue, Athena)` `Azure`
 
-🚀 **Featured Projects**
-- [📊 Domestic Violence in Brazil - 2020](https://lnkd.in/dZ3i2v74): a comparative analysis using SINAN/SUS data and interactive visualisations.
-> This project explores both the absolute volume and population-adjusted notification rates, offering a critical analytical view of a sensitive and important issue.
+📚 Education
+- MBA in Data Engineering – FIAP (2025–current)
+- Systems Analysis and Development – Impacta Tecnologia (2023–2025)
 
-💬 **Favourite Quote**
-> “Solving our greatest problems requires understanding both the human context and the software code, both ethics and statistics.”  
-> — *Scott Hartley, The Fuzzy and the Techie*
+🚀 Featured Projects
+- 🧠 SUS Mental Health Analytics: end-to-end analysis of 546k psychiatric
+  hospitalizations in São Paulo (2017–2023) — ETL, statistical testing,
+  A/B simulation, Bayesian inference and Streamlit dashboard
+  👉 github.com/kvgs/sus-saude-mental-analytics
+
+- 🚌 Spatial Analysis: public transport vs economy in BH — 512k companies,
+  47k bus stops, 320 neighborhoods. Pearson correlation 0.505
+  👉 github.com/kvgs/case-engineering
+
+- 📊 Domestic Violence in Brazil (2020): comparative analysis using
+  SINAN/SUS data
+  👉 github.com/kvgs/sinan_sus
+
+💬 Favourite Quote
+"Solving our greatest problems requires understanding both the human context
+and the software code, both ethics and statistics."
+— Scott Hartley, The Fuzzy and the Techie
+
+📫 Let's connect!
+⭐ Always learning — feedback and suggestions are welcome!
 
 📫 **Let's connect!**
 <div>
