@@ -1,37 +1,44 @@
 👩‍💻 Hi there! I'm Kelli Souza
 
 🎓 I started in History, but found my path where data meets social impact.
-I work as a Data Analyst, building pipelines, dashboards and analyses
-that support strategic decisions — with a focus on public health data.
+I work as a Data Analyst moving into Data Engineering — building pipelines,
+dimensional models, dashboards and analyses that support strategic decisions,
+with a soft spot for public health data.
 
 📌 Currently:
-- Data Analyst at W1 Consultoria Financeira
+- Data Analyst at W1 Consultoria Financeira — building and evolving a Medallion
+  (Bronze/Silver/Gold) pipeline on Microsoft Fabric with PySpark, Spark SQL and
+  Delta Lake, plus data contracts, star schema modeling and Power BI semantic models
 - MBA in Data Engineering @ FIAP
 
 🛠️ Technologies & Tools
-- Languages: `SQL` `Python` `PySpark` `JavaScript`
-- BI Tools: `Tableau` `Power BI` `Streamlit`
-- Data & ETL: `Azure Data Factory` `SSIS` `Airflow` `dbt` `Docker`
-- Databases: `SQL Server` `MySQL` `MongoDB`
-- Cloud: `AWS (S3, Glue, Athena)` `Azure`
+- Languages: `SQL` `Python` `PySpark` `Spark SQL` `JavaScript`
+- Data Engineering: `Microsoft Fabric (Lakehouse, OneLake, Notebooks)` `Delta Lake`
+  `Medallion Architecture` `Databricks` `Snowflake` `Unity Catalog`
+- ETL & Orchestration: `Airflow` `dbt` `Azure Data Factory` `SSIS` `Docker`
+- BI Tools: `Power BI (DAX, Power Query M, RLS, semantic models)` `Tableau`
+  `Metabase` `Streamlit`
+- Databases: `PostgreSQL` `MySQL` `SQL Server` `AWS Athena` `MongoDB`
+- Cloud: `AWS (S3, Glue, Athena, Lambda)` `Azure` `BigQuery`
+- Data Modeling & Governance: `Star Schema / Kimball` `Data Contracts`
+  `Data Quality testing`
+- Versioning & DevOps: `Git` `GitHub` `Azure DevOps Repos` `CI/CD`
 
 📚 Education
-- MBA in Data Engineering – FIAP (2026–current)
+- MBA in Data Engineering – FIAP (2025–current)
 - Systems Analysis and Development – Impacta Tecnologia (2023–2025)
+- History – Universidade de São Paulo
 
 🚀 Featured Projects
-- 🧠 SUS Mental Health Analytics: end-to-end analysis of 546k psychiatric
-  hospitalizations in São Paulo (2017–2023) — ETL, statistical testing,
-  A/B simulation, Bayesian inference and Streamlit dashboard
-  👉 github.com/kvgs/sus-saude-mental-analytics
-
+- 🏗️ SUS Data Pipeline: end-to-end pipeline on Brazilian public health data —
+  AWS S3, Glue Crawler and Athena, dbt with 32 automated tests, Airflow, Docker,
+  PySpark and Medallion architecture
+  👉 github.com/kvgs/sus-data-pipeline
+  
 - 🚌 Spatial Analysis: public transport vs economy in BH — 512k companies,
   47k bus stops, 320 neighborhoods. Pearson correlation 0.505
   👉 github.com/kvgs/case-engineering
 
-- 📊 Domestic Violence in Brazil (2020): comparative analysis using
-  SINAN/SUS data
-  👉 github.com/kvgs/sinan_sus
 
 💬 Favourite Quote
 "Solving our greatest problems requires understanding both the human context
@@ -39,7 +46,6 @@ and the software code, both ethics and statistics."
 — Scott Hartley, The Fuzzy and the Techie
 
 📫 Let's connect!
-
 <div>
   <a href="https://instagram.com/kikiaconteceu" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
@@ -53,5 +59,4 @@ and the software code, both ethics and statistics."
 </div>
 
 ---
-
-⭐ Thanks for visiting my profile! I’m constantly learning, so feedback, suggestions, and helpful tips are always welcome. :)
+⭐ Thanks for visiting my profile! I'm constantly learning, so feedback, suggestions, and helpful tips are always welcome. :)
